@@ -156,9 +156,9 @@ renderLargerThumbnail: true
     throw e
   }
 }
-handler.help = ['menu']
+handler.help = ['mass']
 handler.tags = ['infobot']
-handler.command = ['menu','b','list'] 
+handler.command = ['mass','b','list'] 
 handler.register = false
 
 
